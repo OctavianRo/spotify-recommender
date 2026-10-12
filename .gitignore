@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+.env
+.env.*
+!.env.example
+spotify_config.json
+.DS_Store
